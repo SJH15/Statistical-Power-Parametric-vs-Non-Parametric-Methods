@@ -29,4 +29,4 @@ This project replicates and extends a published study comparing the effectivenes
 -ggplot2 for heatmaps and data visualization
 
 ## Links
-[Replication of Results project.pdf](Replication%20of%20Results%20project.pdf)
+[Replication of Results project.pdf(Code at bottom)](Replication%20of%20Results%20project.pdf)
